@@ -1,5 +1,10 @@
 # React class style component
 
+```bash
+npm start
+npm test
+```
+
 This is one of many projects saved for the sole purpose of acting as a future reference. This reference is for react class style components, and list rendering.
 
 ## Example for future reference
